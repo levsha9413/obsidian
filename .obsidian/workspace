@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "582773edb7dd11a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e7a863740850168",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "professional skills/Консоль разработчика/XHR.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "066a8be19b9abb85",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6ffe548c9eb2757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d938c982659347a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1068ef5ae249088",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7377de51d96e3fba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd122ffe329b82f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f83472365e784281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30876537054bbf3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "professional skills/Консоль разработчика/XHR.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fc63ed654875d480",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "097617f3c471b5b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "professional skills/Консоль разработчика/XHR.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "professional skills/Консоль разработчика/XHR.md",
+    "professional skills/Консоль разработчика/Отрицательный фильтр.md",
+    "professional skills/Консоль разработчика/Untitled.md",
+    "professional skills/API/API и его виды.md",
+    "REST.md",
+    "professional skills/API/SOAP API.md",
+    "professional skills/API/REST API.md",
+    "professional skills/API/Untitled.md",
+    "professional skills/Искусство тестирования/Важность разделения труда.md",
+    "professional skills/Искусство тестирования/Важность ожидаемых данных.md"
+  ]
+}
