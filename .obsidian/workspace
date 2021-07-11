@@ -7,11 +7,8 @@
         "id": "5e7a863740850168",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "professional skills/Консоль разработчика/XHR.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/Консоль разработчика/XHR.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "professional skills/Консоль разработчика/XHR.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -113,19 +107,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285
   },
   "active": "5e7a863740850168",
   "lastOpenFiles": [
+    "professional skills/autotests/Untitled.md",
+    "professional skills/autotests/Библиотека.md",
+    "professional skills/Системные решения.md",
+    "professional skills/API/API и его виды.md",
     "professional skills/Консоль разработчика/XHR.md",
     "professional skills/Консоль разработчика/Отрицательный фильтр.md",
     "professional skills/Консоль разработчика/Untitled.md",
-    "professional skills/API/API и его виды.md",
     "REST.md",
     "professional skills/API/SOAP API.md",
-    "professional skills/API/REST API.md",
-    "professional skills/API/Untitled.md",
-    "professional skills/Искусство тестирования/Важность разделения труда.md",
-    "professional skills/Искусство тестирования/Важность ожидаемых данных.md"
+    "professional skills/API/REST API.md"
   ]
 }
