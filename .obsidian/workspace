@@ -6,7 +6,6 @@
       {
         "id": "5e7a863740850168",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -81,6 +80,8 @@
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -92,7 +93,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -113,6 +115,7 @@
     "direction": "horizontal",
     "width": 300
   },
+  "active": "5e7a863740850168",
   "lastOpenFiles": [
     "professional skills/Консоль разработчика/XHR.md",
     "professional skills/Консоль разработчика/Отрицательный фильтр.md",
