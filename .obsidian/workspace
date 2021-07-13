@@ -6,11 +6,10 @@
       {
         "id": "5e7a863740850168",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/Консоль разработчика/XHR.md",
+            "file": "professional skills/autotests/Настройка запусков.md",
             "mode": "source"
           }
         }
@@ -77,10 +76,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/Консоль разработчика/XHR.md",
+                "file": "professional skills/autotests/Настройка запусков.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -92,7 +93,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -102,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/Консоль разработчика/XHR.md"
+                "file": "professional skills/autotests/Настройка запусков.md"
               }
             }
           }
@@ -111,18 +113,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285,
+    "collapsed": true
   },
+  "active": "5e7a863740850168",
   "lastOpenFiles": [
+    "professional skills/autotests/Untitled.md",
+    "professional skills/autotests/requarements.txt.md",
+    "professional skills/autotests/venv.md",
+    "professional skills/API/API и его виды.md",
+    "professional skills/autotests/Библиотека.md",
+    "professional skills/Системные решения.md",
     "professional skills/Консоль разработчика/XHR.md",
     "professional skills/Консоль разработчика/Отрицательный фильтр.md",
     "professional skills/Консоль разработчика/Untitled.md",
-    "professional skills/API/API и его виды.md",
-    "REST.md",
-    "professional skills/API/SOAP API.md",
-    "professional skills/API/REST API.md",
-    "professional skills/API/Untitled.md",
-    "professional skills/Искусство тестирования/Важность разделения труда.md",
-    "professional skills/Искусство тестирования/Важность ожидаемых данных.md"
+    "REST.md"
   ]
 }
