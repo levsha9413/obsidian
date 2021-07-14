@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/autotests/Фикстуры.md",
+            "file": "professional skills/autotests/ООП/Инкапсуляция.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/autotests/Фикстуры.md",
+                "file": "professional skills/autotests/ООП/Инкапсуляция.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/autotests/Фикстуры.md"
+                "file": "professional skills/autotests/ООП/Инкапсуляция.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "5e7a863740850168",
   "lastOpenFiles": [
+    "professional skills/autotests/ООП/Untitled.md",
+    "professional skills/autotests/ООП/Наследование.md",
+    "professional skills/autotests/ООП/Объект.md",
+    "professional skills/autotests/ООП/Класс.md",
+    "professional skills/autotests/pytest/Финализатор.md",
+    "professional skills/autotests/pytest/Untitled.md",
     "professional skills/autotests/Фикстуры.md",
-    "professional skills/autotests/Декоратор Pytest.md",
+    "professional skills/autotests/pytest/Декоратор Pytest.md",
     "professional skills/autotests/Настройка запусков.md",
-    "professional skills/autotests/Библиотека.md",
-    "professional skills/autotests/Фраемворк.md",
-    "professional skills/autotests/Untitled.md",
-    "professional skills/autotests/__init__.py.md",
-    "professional skills/autotests/pytest/assert.md",
-    "professional skills/autotests/pytest/Термины.md",
-    "professional skills/autotests/pytest/Основные моменты.md"
+    "professional skills/autotests/Декоратор Pytest.md"
   ]
 }
