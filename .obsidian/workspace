@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/autotests/Работа с тестовыми данными/Сериализация и десериализация.md",
+            "file": "professional skills/autotests/pytest/Проверка исключений.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/autotests/Работа с тестовыми данными/Сериализация и десериализация.md",
+                "file": "professional skills/autotests/pytest/Проверка исключений.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/autotests/Работа с тестовыми данными/Сериализация и десериализация.md"
+                "file": "professional skills/autotests/pytest/Проверка исключений.md"
               }
             }
           }
@@ -113,20 +113,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285,
+    "width": 300,
     "collapsed": true
   },
   "active": "5e7a863740850168",
   "lastOpenFiles": [
-    "professional skills/autotests/Работа с тестовыми данными/Сериализация и десериализация.md",
-    "professional skills/autotests/Работа с тестовыми данными/работа с json.md",
-    "professional skills/autotests/functions/Комплектные функции python.md",
-    "professional skills/autotests/functions/Аргумент по умолчанию.md",
-    "professional skills/autotests/functions/Untitled.md",
-    "professional skills/autotests/functions/lambda function.md",
-    "professional skills/autotests/functions/kwargs.md",
-    "professional skills/autotests/functions/args.md",
-    "professional skills/autotests/functions/Чистая функция.md",
-    "professional skills/autotests/functions/Функция высшего порядка.md"
+    "professional skills/autotests/pytest/Проверка исключений.md",
+    "professional skills/autotests/pytest/Основные моменты.md",
+    "professional skills/autotests/pytest/Декоратор Pytest.md",
+    "professional skills/autotests/pytest/Финализатор.md",
+    "professional skills/autotests/pytest/Термины.md",
+    "professional skills/autotests/pytest/Без названия.md",
+    "professional skills/autotests/pytest/assert.md",
+    "professional skills/autotests/requarements.txt.md",
+    "professional skills/autotests/Работа с тестовыми данными/Генератор.md",
+    "professional skills/autotests/Работа с тестовыми данными/Менеджер контекса with.md"
   ]
 }
