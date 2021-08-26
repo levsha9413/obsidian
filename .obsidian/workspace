@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "professional skills/autotests/Работа с тестовыми данными/Pairwise.md",
+=======
+            "file": "professional skills/autotests/pytest/Проверка исключений.md",
+>>>>>>> 0ee497b3103cccb3f683d261b8bddbde306b1be9
             "mode": "source"
           }
         }
@@ -76,7 +80,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "professional skills/autotests/Работа с тестовыми данными/Pairwise.md",
+=======
+                "file": "professional skills/autotests/pytest/Проверка исключений.md",
+>>>>>>> 0ee497b3103cccb3f683d261b8bddbde306b1be9
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +112,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "professional skills/autotests/Работа с тестовыми данными/Pairwise.md"
+=======
+                "file": "professional skills/autotests/pytest/Проверка исключений.md"
+>>>>>>> 0ee497b3103cccb3f683d261b8bddbde306b1be9
               }
             }
           }
@@ -113,11 +125,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285,
+    "width": 300,
     "collapsed": true
   },
   "active": "5e7a863740850168",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "professional skills/autotests/Работа с тестовыми данными/Untitled.md",
     "professional skills/autotests/Работа с тестовыми данными/DDT.md",
     "professional skills/autotests/pytest/Untitled.md",
@@ -128,5 +141,17 @@
     "professional skills/python/Untitled.md",
     "professional skills/API/Авторизация в API.md",
     "professional skills/autotests/functions/Каррирование.md"
+=======
+    "professional skills/autotests/pytest/Проверка исключений.md",
+    "professional skills/autotests/pytest/Основные моменты.md",
+    "professional skills/autotests/pytest/Декоратор Pytest.md",
+    "professional skills/autotests/pytest/Финализатор.md",
+    "professional skills/autotests/pytest/Термины.md",
+    "professional skills/autotests/pytest/Без названия.md",
+    "professional skills/autotests/pytest/assert.md",
+    "professional skills/autotests/requarements.txt.md",
+    "professional skills/autotests/Работа с тестовыми данными/Генератор.md",
+    "professional skills/autotests/Работа с тестовыми данными/Менеджер контекса with.md"
+>>>>>>> 0ee497b3103cccb3f683d261b8bddbde306b1be9
   ]
 }
