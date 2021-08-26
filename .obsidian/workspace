@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/autotests/Работа с тестовыми данными/Сериализация и десериализация.md",
+            "file": "professional skills/autotests/Работа с тестовыми данными/Pairwise.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/autotests/Работа с тестовыми данными/Сериализация и десериализация.md",
+                "file": "professional skills/autotests/Работа с тестовыми данными/Pairwise.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/autotests/Работа с тестовыми данными/Сериализация и десериализация.md"
+                "file": "professional skills/autotests/Работа с тестовыми данными/Pairwise.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "5e7a863740850168",
   "lastOpenFiles": [
-    "professional skills/autotests/Работа с тестовыми данными/Сериализация и десериализация.md",
-    "professional skills/autotests/Работа с тестовыми данными/работа с json.md",
-    "professional skills/autotests/functions/Комплектные функции python.md",
-    "professional skills/autotests/functions/Аргумент по умолчанию.md",
-    "professional skills/autotests/functions/Untitled.md",
-    "professional skills/autotests/functions/lambda function.md",
-    "professional skills/autotests/functions/kwargs.md",
-    "professional skills/autotests/functions/args.md",
-    "professional skills/autotests/functions/Чистая функция.md",
-    "professional skills/autotests/functions/Функция высшего порядка.md"
+    "professional skills/autotests/Работа с тестовыми данными/Untitled.md",
+    "professional skills/autotests/Работа с тестовыми данными/DDT.md",
+    "professional skills/autotests/pytest/Untitled.md",
+    "professional skills/autotests/Тестирование API/requests.md",
+    "позиционных аргументов.md",
+    "professional skills/Системные решения.md",
+    "professional skills/autotests/pytest/Параметры запуска pytest.md",
+    "professional skills/python/Untitled.md",
+    "professional skills/API/Авторизация в API.md",
+    "professional skills/autotests/functions/Каррирование.md"
   ]
 }
