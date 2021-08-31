@@ -1,19 +1,15 @@
 {
   "main": {
-    "id": "582773edb7dd11a9",
+    "id": "bab2ee3ae6904c60",
     "type": "split",
     "children": [
       {
-        "id": "5e7a863740850168",
+        "id": "e413892cd48e40bd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "professional skills/autotests/Работа с тестовыми данными/Pairwise.md",
-=======
-            "file": "professional skills/autotests/pytest/Проверка исключений.md",
->>>>>>> 0ee497b3103cccb3f683d261b8bddbde306b1be9
+            "file": "professional skills/Web/Браузер.md",
             "mode": "source"
           }
         }
@@ -22,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "066a8be19b9abb85",
+    "id": "75c1fb5dbbad4ad6",
     "type": "split",
     "children": [
       {
-        "id": "e6ffe548c9eb2757",
+        "id": "886e9433477338b4",
         "type": "tabs",
         "children": [
           {
-            "id": "2d938c982659347a",
+            "id": "ed5607581008bb46",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -38,7 +34,7 @@
             }
           },
           {
-            "id": "f1068ef5ae249088",
+            "id": "7f5bc0f55361e93f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,7 +49,7 @@
             }
           },
           {
-            "id": "7377de51d96e3fba",
+            "id": "8c88282a844f9135",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -67,36 +63,32 @@
     "width": 300
   },
   "right": {
-    "id": "dd122ffe329b82f2",
+    "id": "4332b0e49f6eee76",
     "type": "split",
     "children": [
       {
-        "id": "f83472365e784281",
+        "id": "612a7f0a671d03d2",
         "type": "tabs",
         "children": [
           {
-            "id": "30876537054bbf3a",
+            "id": "43b8b4a7b358a2f1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "professional skills/autotests/Работа с тестовыми данными/Pairwise.md",
-=======
-                "file": "professional skills/autotests/pytest/Проверка исключений.md",
->>>>>>> 0ee497b3103cccb3f683d261b8bddbde306b1be9
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "professional skills/Web/Браузер.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fc63ed654875d480",
+            "id": "ee41871bb2e72539",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -107,51 +99,33 @@
             }
           },
           {
-            "id": "097617f3c471b5b9",
+            "id": "8183234aa07b2a56",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "professional skills/autotests/Работа с тестовыми данными/Pairwise.md"
-=======
-                "file": "professional skills/autotests/pytest/Проверка исключений.md"
->>>>>>> 0ee497b3103cccb3f683d261b8bddbde306b1be9
+                "file": "professional skills/Web/Браузер.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "5e7a863740850168",
+  "active": "e413892cd48e40bd",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "professional skills/autotests/Работа с тестовыми данными/Untitled.md",
-    "professional skills/autotests/Работа с тестовыми данными/DDT.md",
-    "professional skills/autotests/pytest/Untitled.md",
-    "professional skills/autotests/Тестирование API/requests.md",
-    "позиционных аргументов.md",
-    "professional skills/Системные решения.md",
+    "professional skills/Web/Без названия.md",
+    "professional skills/Web/CSS.md",
+    "professional skills/Web/HTML.md",
+    "professional skills/Web/Концепция фронта Ready Pages.md",
+    "professional skills/Web/Концепция фронта API data.md",
+    "professional skills/Без названия.md",
     "professional skills/autotests/pytest/Параметры запуска pytest.md",
-    "professional skills/python/Untitled.md",
-    "professional skills/API/Авторизация в API.md",
-    "professional skills/autotests/functions/Каррирование.md"
-=======
-    "professional skills/autotests/pytest/Проверка исключений.md",
-    "professional skills/autotests/pytest/Основные моменты.md",
     "professional skills/autotests/pytest/Декоратор Pytest.md",
-    "professional skills/autotests/pytest/Финализатор.md",
-    "professional skills/autotests/pytest/Термины.md",
-    "professional skills/autotests/pytest/Без названия.md",
-    "professional skills/autotests/pytest/assert.md",
-    "professional skills/autotests/requarements.txt.md",
-    "professional skills/autotests/Работа с тестовыми данными/Генератор.md",
-    "professional skills/autotests/Работа с тестовыми данными/Менеджер контекса with.md"
->>>>>>> 0ee497b3103cccb3f683d261b8bddbde306b1be9
+    "professional skills/autotests/Начало работы/Фикстуры.md",
+    "professional skills/autotests/functions/lambda function.md"
   ]
 }
