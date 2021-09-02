@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/Web/Браузер.md",
+            "file": "professional skills/autotests/Selenium/Selenium docs.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/Web/Браузер.md",
+                "file": "professional skills/autotests/Selenium/Selenium docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/Web/Браузер.md"
+                "file": "professional skills/autotests/Selenium/Selenium docs.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "e413892cd48e40bd",
   "lastOpenFiles": [
+    "professional skills/autotests/Selenium/Без названия.md",
+    "professional skills/autotests/Selenium/Основы.md",
+    "professional skills/Web/Браузер.md",
     "professional skills/Web/Без названия.md",
     "professional skills/Web/CSS.md",
     "professional skills/Web/HTML.md",
     "professional skills/Web/Концепция фронта Ready Pages.md",
     "professional skills/Web/Концепция фронта API data.md",
     "professional skills/Без названия.md",
-    "professional skills/autotests/pytest/Параметры запуска pytest.md",
-    "professional skills/autotests/pytest/Декоратор Pytest.md",
-    "professional skills/autotests/Начало работы/Фикстуры.md",
-    "professional skills/autotests/functions/lambda function.md"
+    "professional skills/autotests/pytest/Параметры запуска pytest.md"
   ]
 }
