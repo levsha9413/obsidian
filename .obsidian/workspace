@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/autotests/Selenium/Selenium docs.md",
+            "file": "professional skills/autotests/pytest/Параметризация.md",
             "mode": "source"
           }
         }
@@ -56,11 +56,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 388.5
   },
   "right": {
     "id": "4332b0e49f6eee76",
@@ -76,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/autotests/Selenium/Selenium docs.md",
+                "file": "professional skills/autotests/pytest/Параметризация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -104,11 +105,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/autotests/Selenium/Selenium docs.md"
+                "file": "professional skills/autotests/pytest/Параметризация.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -117,15 +119,15 @@
   },
   "active": "e413892cd48e40bd",
   "lastOpenFiles": [
-    "professional skills/autotests/Selenium/Без названия.md",
-    "professional skills/autotests/Selenium/Основы.md",
-    "professional skills/Web/Браузер.md",
-    "professional skills/Web/Без названия.md",
-    "professional skills/Web/CSS.md",
-    "professional skills/Web/HTML.md",
-    "professional skills/Web/Концепция фронта Ready Pages.md",
-    "professional skills/Web/Концепция фронта API data.md",
-    "professional skills/Без названия.md",
-    "professional skills/autotests/pytest/Параметры запуска pytest.md"
+    "professional skills/autotests/pytest/Параметризация.md",
+    "professional skills/autotests/Selenium/Поиск элементов с помощью selenium/Исключения при поиске элементов.md",
+    "professional skills/autotests/functions/Звездочки.md",
+    "professional skills/autotests/functions/Примеры использования звездочки.md",
+    "professional skills/autotests/functions/Каррирование.md",
+    "professional skills/autotests/functions/Истинное Имя функции.md",
+    "professional skills/autotests/functions/Именные аргументы.md",
+    "professional skills/autotests/functions/Аргумент по умолчанию.md",
+    "professional skills/autotests/ООП/Конструктор класса.md",
+    "professional skills/autotests/ООП/self.md"
   ]
 }
