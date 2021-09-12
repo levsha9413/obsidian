@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/autotests/pytest/Параметризация.md",
+            "file": "professional skills/autotests/Selenium/Ожидание элементов/Синтаксис явных ожиданий.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ожидания",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/autotests/pytest/Параметризация.md",
+                "file": "professional skills/autotests/Selenium/Ожидание элементов/Синтаксис явных ожиданий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/autotests/pytest/Параметризация.md"
+                "file": "professional skills/autotests/Selenium/Ожидание элементов/Синтаксис явных ожиданий.md"
               }
             }
           }
@@ -119,6 +119,8 @@
   },
   "active": "e413892cd48e40bd",
   "lastOpenFiles": [
+    "professional skills/autotests/Selenium/Ожидание элементов/Синтаксис явных ожиданий.md",
+    "professional skills/autotests/Selenium/Ожидание элементов/Виды ожиданий.md",
     "professional skills/autotests/pytest/Параметризация.md",
     "professional skills/autotests/Selenium/Поиск элементов с помощью selenium/Исключения при поиске элементов.md",
     "professional skills/autotests/functions/Звездочки.md",
@@ -126,8 +128,6 @@
     "professional skills/autotests/functions/Каррирование.md",
     "professional skills/autotests/functions/Истинное Имя функции.md",
     "professional skills/autotests/functions/Именные аргументы.md",
-    "professional skills/autotests/functions/Аргумент по умолчанию.md",
-    "professional skills/autotests/ООП/Конструктор класса.md",
-    "professional skills/autotests/ООП/self.md"
+    "professional skills/autotests/functions/Аргумент по умолчанию.md"
   ]
 }
