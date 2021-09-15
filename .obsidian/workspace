@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/autotests/Selenium/Ожидание элементов/Синтаксис явных ожиданий.md",
+            "file": "professional skills/autotests/Selenium/Работа с окнами/alerts.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ожидания",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/autotests/Selenium/Ожидание элементов/Синтаксис явных ожиданий.md",
+                "file": "professional skills/autotests/Selenium/Работа с окнами/alerts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/autotests/Selenium/Ожидание элементов/Синтаксис явных ожиданий.md"
+                "file": "professional skills/autotests/Selenium/Работа с окнами/alerts.md"
               }
             }
           }
@@ -119,15 +118,15 @@
   },
   "active": "e413892cd48e40bd",
   "lastOpenFiles": [
-    "professional skills/autotests/Selenium/Ожидание элементов/Синтаксис явных ожиданий.md",
-    "professional skills/autotests/Selenium/Ожидание элементов/Виды ожиданий.md",
-    "professional skills/autotests/pytest/Параметризация.md",
-    "professional skills/autotests/Selenium/Поиск элементов с помощью selenium/Исключения при поиске элементов.md",
-    "professional skills/autotests/functions/Звездочки.md",
-    "professional skills/autotests/functions/Примеры использования звездочки.md",
-    "professional skills/autotests/functions/Каррирование.md",
-    "professional skills/autotests/functions/Истинное Имя функции.md",
-    "professional skills/autotests/functions/Именные аргументы.md",
-    "professional skills/autotests/functions/Аргумент по умолчанию.md"
+    "professional skills/autotests/Selenium/Работа с окнами/alerts.md",
+    "professional skills/autotests/Selenium/Взаимодействие Selenium c браузером.md",
+    "professional skills/autotests/Selenium/Page object.md",
+    "professional skills/autotests/Selenium/Selenium docs.md",
+    "professional skills/autotests/Selenium/Работа с окнами/Без названия.md",
+    "позиционных аргументов.md",
+    "пример.md",
+    "professional skills/autotests/Selenium/Основы.md",
+    "professional skills/autotests/Selenium/WebElement/Web Element.md",
+    "professional skills/autotests/Selenium/WebElement/Методы и атрибуты класса web element.md"
   ]
 }
