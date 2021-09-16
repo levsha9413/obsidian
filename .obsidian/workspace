@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/autotests/Selenium/Работа с окнами/alerts.md",
+            "file": "professional skills/autotests/Selenium/Паттерн PageObject/Element object.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/autotests/Selenium/Работа с окнами/alerts.md",
+                "file": "professional skills/autotests/Selenium/Паттерн PageObject/Element object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,12 +104,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/autotests/Selenium/Работа с окнами/alerts.md"
+                "file": "professional skills/autotests/Selenium/Паттерн PageObject/Element object.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,15 +117,15 @@
   },
   "active": "e413892cd48e40bd",
   "lastOpenFiles": [
-    "professional skills/autotests/Selenium/Работа с окнами/alerts.md",
+    "professional skills/autotests/Selenium/Паттерн PageObject/Без названия.md",
+    "professional skills/autotests/Selenium/Паттерн PageObject/Page object.md",
+    "professional skills/autotests/Selenium/Поиск элементов с помощью selenium/Особые методы.md",
     "professional skills/autotests/Selenium/Взаимодействие Selenium c браузером.md",
+    "professional skills/autotests/functions/Звездочки.md",
     "professional skills/autotests/Selenium/Page object.md",
-    "professional skills/autotests/Selenium/Selenium docs.md",
-    "professional skills/autotests/Selenium/Работа с окнами/Без названия.md",
-    "позиционных аргументов.md",
-    "пример.md",
-    "professional skills/autotests/Selenium/Основы.md",
-    "professional skills/autotests/Selenium/WebElement/Web Element.md",
-    "professional skills/autotests/Selenium/WebElement/Методы и атрибуты класса web element.md"
+    "professional skills/autotests/Selenium/Работа с куками/Работа с куками.md",
+    "professional skills/autotests/Selenium/Работа с куками/Куки.md",
+    "professional skills/autotests/Selenium/Работа с расширениями/Установка расширений by Selenium.md",
+    "professional skills/autotests/Selenium/Работа с расширениями/Extensions.md"
   ]
 }
