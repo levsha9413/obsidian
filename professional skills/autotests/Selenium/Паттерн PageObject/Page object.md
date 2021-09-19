@@ -18,5 +18,6 @@ def test(browser):
 [[Особые методы]]
 [[Звездочки]]
 
-#selenium
-#автоматизация
+#автоматизация 
+#selenium 
+#PageObject
