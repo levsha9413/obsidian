@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/autotests/Selenium/Работа с расширениями/Установка расширений by Selenium.md",
+            "file": "professional skills/autotests/Selenium/WebElement/Методы и атрибуты класса web element.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#автоматизация",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/autotests/Selenium/Работа с расширениями/Установка расширений by Selenium.md",
+                "file": "professional skills/autotests/Selenium/WebElement/Методы и атрибуты класса web element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/autotests/Selenium/Работа с расширениями/Установка расширений by Selenium.md"
+                "file": "professional skills/autotests/Selenium/WebElement/Методы и атрибуты класса web element.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "e413892cd48e40bd",
   "lastOpenFiles": [
-    "professional skills/autotests/Selenium/Работа с расширениями/Установка расширений by Selenium.md",
+    "professional skills/autotests/Selenium/WebElement/Методы и атрибуты класса web element.md",
+    "professional skills/autotests/Selenium/Работа с окнами браузера/Переключение между окнами.md",
+    "professional skills/autotests/Selenium/Работа с окнами браузера/Открытие окон.md",
     "professional skills/autotests/Selenium/Работа с окнами браузера/Окна.md",
-    "professional skills/autotests/Selenium/Паттерн PageObject/Screen Play паттерн.md",
-    "professional skills/autotests/Selenium/Паттерн PageObject/Локаторы и селекторы.md",
-    "professional skills/autotests/Selenium/Паттерн PageObject/Плохие методы.md",
-    "professional skills/autotests/Selenium/Паттерн PageObject/Проблема создания множества объектов.md",
-    "professional skills/autotests/Selenium/Паттерн PageObject/Работа с элементами в элементе.md",
-    "professional skills/autotests/Selenium/Паттерн PageObject/BasePage.md",
-    "professional skills/autotests/Selenium/Паттерн PageObject/Element object.md",
-    "professional skills/autotests/Selenium/Паттерн PageObject/Page object.md"
+    "professional skills/autotests/Selenium/Взаимодействие Selenium c браузером.md",
+    "professional skills/autotests/Selenium/Поиск элементов с помощью selenium/Методы selenium для поиска элементов.md",
+    "professional skills/autotests/Selenium/WebElement/Метод send_keys.md",
+    "professional skills/autotests/Selenium/Работа с окнами браузера/alerts.md",
+    "professional skills/autotests/Работа с тестовыми данными/Генератор.md",
+    "professional skills/autotests/Selenium/Поиск элементов с помощью selenium/Особые методы.md"
   ]
 }
