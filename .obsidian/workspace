@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/autotests/Selenium/Логирование/Логи.md",
+            "file": "professional skills/autotests/Selenium/Работа с прокси/browsermobproxy.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/autotests/Selenium/Логирование/Логи.md",
+                "file": "professional skills/autotests/Selenium/Работа с прокси/browsermobproxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/autotests/Selenium/Логирование/Логи.md"
+                "file": "professional skills/autotests/Selenium/Работа с прокси/browsermobproxy.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "e413892cd48e40bd",
   "lastOpenFiles": [
+    "professional skills/autotests/Selenium/Работа с прокси/Без названия.md",
+    "professional skills/autotests/Selenium/Логирование/Без названия.md",
+    "Без названия.md",
     "professional skills/autotests/Selenium/Логирование/Логи.md",
     "professional skills/autotests/Selenium/Логирование/Логи в тестах selenium.md",
     "professional skills/autotests/Selenium/Логирование/Модуль logging.md",
     "professional skills/autotests/Selenium/Логирование/Уровни логов.md",
     "professional skills/autotests/Selenium/Ожидание элементов/Проброс кастомных исключений.md",
     "professional skills/autotests/Selenium/Ожидание элементов/Ожидания элементов.md",
-    "professional skills/autotests/Selenium/Ожидание элементов/Виды ожиданий.md",
-    "professional skills/python/Параметры для запуска программ.md",
-    "professional skills/autotests/Selenium/Логирование/Без названия.md",
-    "professional skills/autotests/Selenium/WebElement/Методы и атрибуты класса web element.md"
+    "professional skills/autotests/Selenium/Ожидание элементов/Виды ожиданий.md"
   ]
 }
