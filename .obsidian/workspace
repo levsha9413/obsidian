@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/autotests/Selenium/Работа с прокси/browsermobproxy.md",
+            "file": "professional skills/autotests/Selenium/Удаленный запуск/Browserstack.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Web",
+                "query": "w3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/autotests/Selenium/Работа с прокси/browsermobproxy.md",
+                "file": "professional skills/autotests/Selenium/Удаленный запуск/Browserstack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/autotests/Selenium/Работа с прокси/browsermobproxy.md"
+                "file": "professional skills/autotests/Selenium/Удаленный запуск/Browserstack.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "e413892cd48e40bd",
   "lastOpenFiles": [
-    "professional skills/autotests/Selenium/Работа с прокси/Без названия.md",
-    "professional skills/autotests/Selenium/Логирование/Без названия.md",
-    "Без названия.md",
-    "professional skills/autotests/Selenium/Логирование/Логи.md",
-    "professional skills/autotests/Selenium/Логирование/Логи в тестах selenium.md",
-    "professional skills/autotests/Selenium/Логирование/Модуль logging.md",
+    "professional skills/autotests/Selenium/Удаленный запуск/Без названия.md",
+    "professional skills/autotests/Selenium/Удаленный запуск/Конфигурация hub.md",
+    "professional skills/autotests/Selenium/Удаленный запуск/Режимы SeleniumServer.md",
+    "professional skills/autotests/Selenium/Удаленный запуск/Режими SeleniumServer.md",
+    "professional skills/autotests/Selenium/Многопоточность в тестах/Без названия.md",
+    "professional skills/autotests/Selenium/Удаленный запуск/selenium server.md",
+    "professional skills/autotests/Selenium/Взаимодействие Selenium c браузером.md",
     "professional skills/autotests/Selenium/Логирование/Уровни логов.md",
-    "professional skills/autotests/Selenium/Ожидание элементов/Проброс кастомных исключений.md",
-    "professional skills/autotests/Selenium/Ожидание элементов/Ожидания элементов.md",
-    "professional skills/autotests/Selenium/Ожидание элементов/Виды ожиданий.md"
+    "professional skills/autotests/Selenium/Логирование/Модуль logging.md",
+    "professional skills/autotests/Selenium/Логирование/AbstractEventListener.md"
   ]
 }
