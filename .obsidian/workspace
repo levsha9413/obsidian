@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/autotests/Selenium/Удаленный запуск/Browserstack.md",
+            "file": "professional skills/autotests/Selenium/Selenoid/Добавление нового браузера в selenoid.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/autotests/Selenium/Удаленный запуск/Browserstack.md",
+                "file": "professional skills/autotests/Selenium/Selenoid/Добавление нового браузера в selenoid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/autotests/Selenium/Удаленный запуск/Browserstack.md"
+                "file": "professional skills/autotests/Selenium/Selenoid/Добавление нового браузера в selenoid.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "e413892cd48e40bd",
   "lastOpenFiles": [
-    "professional skills/autotests/Selenium/Удаленный запуск/Без названия.md",
-    "professional skills/autotests/Selenium/Удаленный запуск/Конфигурация hub.md",
-    "professional skills/autotests/Selenium/Удаленный запуск/Режимы SeleniumServer.md",
-    "professional skills/autotests/Selenium/Удаленный запуск/Режими SeleniumServer.md",
-    "professional skills/autotests/Selenium/Многопоточность в тестах/Без названия.md",
-    "professional skills/autotests/Selenium/Удаленный запуск/selenium server.md",
-    "professional skills/autotests/Selenium/Взаимодействие Selenium c браузером.md",
-    "professional skills/autotests/Selenium/Логирование/Уровни логов.md",
-    "professional skills/autotests/Selenium/Логирование/Модуль logging.md",
-    "professional skills/autotests/Selenium/Логирование/AbstractEventListener.md"
+    "professional skills/autotests/Selenium/Selenoid/Без названия.md",
+    "professional skills/autotests/Selenium/Selenoid/Конфигурирование в Selenoid.md",
+    "professional skills/autotests/Selenium/Selenoid/Какие задачи решает Selenoid.md",
+    "professional skills/autotests/Selenium/SeleniumServer/Режимы SeleniumServer.md",
+    "professional skills/autotests/Selenium/SeleniumServer/Запросы curl в seleniumServer.md",
+    "professional skills/autotests/Selenium/SeleniumServer/Конфигурация node.md",
+    "professional skills/autotests/Selenium/Selenoid/Дебаг в Selenoid.md",
+    "professional skills/autotests/Selenium/Selenoid/Selenoid UI.md",
+    "professional skills/autotests/Selenium/Selenoid/Запуск тестов в Selenoid.md",
+    "professional skills/autotests/Selenium/Selenoid/Запуск Selenoid.md"
   ]
 }
