@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/autotests/Selenium/Отчеты для автотестов/Установка генератора.md",
+            "file": "professional skills/autotests/Selenium/Отчеты для автотестов/enviroments в отчете.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/autotests/Selenium/Отчеты для автотестов/Установка генератора.md",
+                "file": "professional skills/autotests/Selenium/Отчеты для автотестов/enviroments в отчете.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/autotests/Selenium/Отчеты для автотестов/Установка генератора.md"
+                "file": "professional skills/autotests/Selenium/Отчеты для автотестов/enviroments в отчете.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "e413892cd48e40bd",
   "lastOpenFiles": [
-    "professional skills/autotests/Selenium/Отчеты для автотестов/Установка генератора.md",
-    "professional skills/autotests/Selenium/Отчеты для автотестов/Установка адаптера.md",
-    "professional skills/autotests/Selenium/Отчеты для автотестов/Без названия.md",
-    "professional skills/autotests/Selenium/Отчеты для автотестов/Как создается отчет в allure.md",
-    "professional skills/autotests/Selenium/Отчеты для автотестов/Allure.md",
+    "professional skills/autotests/Selenium/Отчеты для автотестов/enviroments в отчете.md",
     "professional skills/autotests/Selenium/Selenoid/Пример кода для настройки Selenoid.md",
-    "professional skills/autotests/Selenium/Selenoid/Конфигурирование в Selenoid.md",
-    "professional skills/autotests/Selenium/Selenoid/Без названия.md",
-    "professional skills/autotests/Selenium/Selenoid/Selenoid UI.md",
-    "professional skills/autotests/Selenium/Selenoid/Эндпоинты Selenoid.md"
+    "professional skills/autotests/Selenium/Отчеты для автотестов/Без названия.md",
+    "professional skills/autotests/Selenium/Отчеты для автотестов/Структура отчета allure.md",
+    "professional skills/autotests/Selenium/Отчеты для автотестов/Статусы тестов в отчетах.md",
+    "professional skills/autotests/Selenium/Отчеты для автотестов/Работа с генератором allure.md",
+    "professional skills/autotests/Selenium/Отчеты для автотестов/Адаптер.md",
+    "professional skills/autotests/Selenium/Отчеты для автотестов/Описание тестов.md",
+    "professional skills/autotests/Selenium/Отчеты для автотестов/Параметризация allure.md",
+    "professional skills/autotests/Selenium/Отчеты для автотестов/Ссылки.md"
   ]
 }
