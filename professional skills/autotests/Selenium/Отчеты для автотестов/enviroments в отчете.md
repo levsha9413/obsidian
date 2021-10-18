@@ -9,3 +9,4 @@
 
 или добавить парсинг из парматров в финалайзер (понятнее) 
 https://github.com/agridyaev/otus-selenoid/blob/master/conftest.py
+(путь до environment.properties указывать относительно файла теста, а не conftest)

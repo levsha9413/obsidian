@@ -6,3 +6,5 @@
 ● Минимум времени на разбор отчета 
 ● Интеграция с тестовыми фреймворками (pytest, TestNG и т. д.) 
 ●Поддержка CI (Jenkins, TeamCity)
+
+дока: https://docs.qameta.io/allure/#_about
