@@ -2,7 +2,7 @@
 раздел Quick started.
 Качаем [Configuration Manager](http://aerokube.com/cm/latest/) из [releases](https://github.com/aerokube/cm/releases/latest)
 
-wget -O cm <link_to_cm_release>
+wget -O cm <link_to_cm_release> - скачать с переименованием 
 chmod +x cm
 
 Для работы необходим установленный докер.

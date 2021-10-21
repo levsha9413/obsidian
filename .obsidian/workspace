@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/autotests/Работа с тестовыми данными/Генератор-функция.md",
+            "file": "professional skills/autotests/Selenium/Многопоточность в тестах/Работа с xdist.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/autotests/Работа с тестовыми данными/Генератор-функция.md",
+                "file": "professional skills/autotests/Selenium/Многопоточность в тестах/Работа с xdist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/autotests/Работа с тестовыми данными/Генератор-функция.md"
+                "file": "professional skills/autotests/Selenium/Многопоточность в тестах/Работа с xdist.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "14ffada48e3ebe38",
   "lastOpenFiles": [
+    "professional skills/autotests/Selenium/Многопоточность в тестах/Работа с xdist.md",
+    "professional skills/autotests/Selenium/Selenoid/Конфигурирование в Selenoid.md",
+    "professional skills/autotests/Selenium/Selenoid/Пример кода для настройки Selenoid.md",
+    "professional skills/autotests/Selenium/Selenoid/Запуск тестов в Selenoid.md",
+    "professional skills/autotests/Selenium/Selenoid/Запуск Selenoid.md",
+    "professional skills/autotests/Selenium/Selenoid/Какие задачи решает Selenoid.md",
     "professional skills/autotests/Работа с тестовыми данными/Генератор-функция.md",
     "professional skills/autotests/Работа с тестовыми данными/работа с json.md",
     "professional skills/autotests/Работа с тестовыми данными/Менеджер контекса with.md",
-    "professional skills/autotests/Selenium/Логи в линукс/Регулярки.md",
-    "professional skills/autotests/Selenium/Логи в линукс/Работа с текстом/sed.md",
-    "professional skills/autotests/Selenium/Логи в линукс/Без названия.md",
-    "professional skills/autotests/Selenium/Логи в линукс/Работа с текстом/grep.md",
-    "professional skills/autotests/Selenium/Логи в линукс/Работа с текстом/tail.md",
-    "professional skills/autotests/Selenium/Логи в линукс/Работа с текстом/Без названия.md",
-    "Без названия 1.md"
+    "professional skills/autotests/Selenium/Логи в линукс/Регулярки.md"
   ]
 }
