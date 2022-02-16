@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "14ffada48e3ebe38",
+        "id": "9584a96022597efe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "professional skills/autotests/Selenium/Многопоточность в тестах/Работа с xdist.md",
+            "file": "professional skills/lead/Навыки/Собес.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "w3",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "professional skills/autotests/Selenium/Многопоточность в тестах/Работа с xdist.md",
+                "file": "professional skills/lead/Навыки/Собес.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "professional skills/autotests/Selenium/Многопоточность в тестах/Работа с xdist.md"
+                "file": "professional skills/lead/Навыки/Собес.md"
               }
             }
           }
@@ -115,17 +115,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "14ffada48e3ebe38",
+  "active": "9584a96022597efe",
   "lastOpenFiles": [
-    "professional skills/autotests/Selenium/Многопоточность в тестах/Работа с xdist.md",
-    "professional skills/autotests/Selenium/Selenoid/Конфигурирование в Selenoid.md",
-    "professional skills/autotests/Selenium/Selenoid/Пример кода для настройки Selenoid.md",
-    "professional skills/autotests/Selenium/Selenoid/Запуск тестов в Selenoid.md",
-    "professional skills/autotests/Selenium/Selenoid/Запуск Selenoid.md",
-    "professional skills/autotests/Selenium/Selenoid/Какие задачи решает Selenoid.md",
-    "professional skills/autotests/Работа с тестовыми данными/Генератор-функция.md",
-    "professional skills/autotests/Работа с тестовыми данными/работа с json.md",
-    "professional skills/autotests/Работа с тестовыми данными/Менеджер контекса with.md",
-    "professional skills/autotests/Selenium/Логи в линукс/Регулярки.md"
+    "professional skills/lead/Навыки/Собес.md",
+    "professional skills/lead/Навыки/Только самые нужные навыки.md",
+    "professional skills/lead/Навыки/Упор на навыки.md",
+    "professional skills/lead/Команда/Звездная карта.md",
+    "professional skills/lead/Команда/Модели Ицхака Одизиса и Белбина.md",
+    "professional skills/lead/Команда/Модель Патрика Ленсиони.md",
+    "professional skills/lead/Команда/Самоорганизующаяся команда.md",
+    "professional skills/lead/Команда/Модель Хакмана.md",
+    "professional skills/lead/Команда/Модель развития команды по Такману.md",
+    "professional skills/lead/Команда/Виды команд.md"
   ]
 }
