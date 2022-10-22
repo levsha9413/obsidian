@@ -1,0 +1,420 @@
+{
+  "main": {
+    "id": "bab2ee3ae6904c60",
+    "type": "split",
+    "children": [
+      {
+        "id": "401ad148984ba396",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31b3a7670383757d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Тайм менеджмент/Правило Парето.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ca4ef24ade93565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Тайм менеджмент/Работа с ежедневником.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "208631bbab2f4325",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Тайм менеджмент/Лайфхаки тайм менеджмента.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d26d34368f47e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Тайм менеджмент/План на месяц.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eea9d83882312c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Ведение конспектов/Печатные или рукописные.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1d2f96c7aff9268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Ведение конспектов/Печатные или рукописные.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a93ab7177ce3861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Ведение конспектов/Лайфхаки по ведению конспектов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bef7ae17ee2c24b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Ведение конспектов/Лайфхаки по ведению конспектов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "104c1016ed9e22a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Тайм менеджмент/Работа с ежедневником.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f2aebe8bc95c009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Тайм менеджмент/Вывод по тайм-менеджменту.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bd1048284d83930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Работа с памятью/Устройство памяти/Как работает память.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60ef12a4d1cd6544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Работа с памятью/Устройство памяти/Кратковременная память.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81b51bff9b720e39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Работа с памятью/Устройство памяти/Долговременная память.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67ffeeccd0bf0b91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Работа с памятью/Консолидация/Сон и консолидация памяти.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52136509ec85b3ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Работа с памятью/Консолидация/Стресс и консолидация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3c22affd4e05b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Работа с памятью/Консолидация/Эмоции и консолидация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e49e90d4782278f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Работа с памятью/Консолидация/Мультимодальность и консолидация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "357791b1a46a8f3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Работа с памятью/Консолидация/Повторения.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "025bc63c3a28d02a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Работа с памятью/Консолидация/Вывод по консолидации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fc9632b366b8416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Работа с памятью/Мнемотехники/Метод мест.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bde3dea0141b45cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Работа с памятью/Мнемотехники/Истории и ассоциации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9ac74db607d6303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Работа с памятью/Мнемотехники/Истории и ассоциации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02e350427f86953b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Работа с памятью/Мнемотехники/Вывод по мнемотехникам.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "322745c5be0d4f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учебка/Учимся учиться/Выводы по блоку \"Учимся учиться\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 23
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75c1fb5dbbad4ad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "886e9433477338b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed5607581008bb46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f5bc0f55361e93f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c88282a844f9135",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 517.5
+  },
+  "right": {
+    "id": "4332b0e49f6eee76",
+    "type": "split",
+    "children": [
+      {
+        "id": "612a7f0a671d03d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b8b4a7b358a2f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Учебка/Учимся учиться/Выводы по блоку \"Учимся учиться\".md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ee41871bb2e72539",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8183234aa07b2a56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Учебка/Учимся учиться/Выводы по блоку \"Учимся учиться\".md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "322745c5be0d4f2c",
+  "lastOpenFiles": [
+    "Учебка/Учимся учиться/Работа с памятью/Мнемотехники/Вывод по мнемотехникам.md",
+    "Учебка/Учимся учиться/Работа с памятью/Мнемотехники/Ярлыки.md",
+    "Учебка/Учимся учиться/Работа с памятью/Мнемотехники/Истории и ассоциации.md",
+    "Учебка/Учимся учиться/Работа с памятью/Мнемотехники/Метод мест.md",
+    "Учебка/Учимся учиться/Работа с памятью/Консолидация/Вывод по консолидации.md",
+    "Учебка/Учимся учиться/Работа с памятью/Консолидация/Повторения.md",
+    "Учебка/Учимся учиться/Работа с памятью/Консолидация/Мультимодальность и консолидация.md",
+    "Учебка/Учимся учиться/Работа с памятью/Консолидация/Эмоции и консолидация.md",
+    "Учебка/Учимся учиться/Работа с памятью/Консолидация/Стресс и консолидация.md",
+    "Учебка/Учимся учиться/Работа с памятью/Консолидация/Сон и консолидация памяти.md"
+  ]
+}

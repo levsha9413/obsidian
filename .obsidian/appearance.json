@@ -1,5 +1,6 @@
 {
   "baseFontSize": 17,
   "theme": "moonstone",
-  "cssTheme": "Obsidian gruvbox"
+  "cssTheme": "Obsidian gruvbox",
+  "accentColor": ""
 }
